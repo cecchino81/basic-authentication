@@ -1,0 +1,6 @@
+git init
+git add .
+git status
+git commit -m "Commento"
+git remote add origin 'your_url_name'
+git push -u origin master
